@@ -95,7 +95,7 @@ export class GuiModel {
                 
 
                { "id": "ActivityForm",
-                    "title": "Activity",
+                    "title": "Activity1",
                     "url": "/activity",
                     "formFieldList": [
  {
